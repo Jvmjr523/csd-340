@@ -1,0 +1,18 @@
+
+
+h1{text-align: center;}
+h3{font-weight: 500;}
+
+
+.One{width: 45%; display: inline-block;vertical-align: top;}
+
+.Two{width: 45%; display: inline-block;vertical-align: top;}
+
+.Three{text-align: right; margin-top: 60px;margin-bottom: 20px;width: 100%;}
+.Three:hover{text-decoration: underline}
+
+
+ol{border: 1px solid red;border-radius: 15px;padding: 10px;list-style-position: inside;}
+ul{border: 1px dashed red;border-radius: 15px;padding: 10px;list-style: upper-roman;list-style-position: inside;}
+li{font-weight: 300;}
+
